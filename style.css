@@ -1,0 +1,23 @@
+/* HTML page styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar,
+#string,
+footer {
+    background-color: rgb(1, 1, 45);
+
+}
+
+#inp {
+    width: 85%;
+}
+button {
+    color: aliceblue;
+}
+#output {
+    min-height: 204px;
+    height: auto;
+}
